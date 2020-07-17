@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5a867ea-dedd-4f77-b5ad-ca8a24dc6093" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eotKAHvukerFn1txA30SEw4NrP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot-mysql-docker-compose/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/springboot-mysql-docker-compose/src/main/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a867ea-dedd-4f77-b5ad-ca8a24dc6093" name="Default Changelist" comment="" />
+      <created>1594999706322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594999706322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="774" y="300" width="447" height="520" key="FileChooserDialogImpl" timestamp="1595003885728">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="300" width="447" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1595003885728" />
+    <state x="687" y="162" width="618" height="783" key="find.popup" timestamp="1595001262532">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="687" y="162" width="618" height="783" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1595001262532" />
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595003764644">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1595003764644" />
+  </component>
+</project>
